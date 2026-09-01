@@ -12,6 +12,7 @@
   <img src="https://raw.githubusercontent.com/Bennywyattrose/Bennywyattrose.github.io/318bfb01124770da35d0630648476469e2c37579/Images/Photoshop_Logo.png" width="60" height="60" alt="Adobe Photoshop" />
   <img src="https://raw.githubusercontent.com/Bennywyattrose/Bennywyattrose.github.io/9514edd3453bfd97edfb3bd7cf0e210ffe99a691/Images/Illustrator_Logo.png" width="60" height="60" alt="Adobe Illustrator" />
   <img src="https://raw.githubusercontent.com/Bennywyattrose/Bennywyattrose.github.io/903c0cae6efae7f9df5b81ffba9c6d36926ae01d/Images/Indesign_Logo.png" width="60" height="60" alt="Adobe InDesign" />
+  <img src="https://raw.githubusercontent.com/Bennywyattrose/Bennywyattrose.github.io/dae07770c577a51fb51a4100a214a81da019b7ed/Images/Dreamweaver_Logo.png" width="60" height="60" alt="Adobe Dreamweaver" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
