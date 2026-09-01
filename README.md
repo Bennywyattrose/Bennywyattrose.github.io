@@ -2,11 +2,16 @@
 
 <h3 align="center">A passionate Graphic Designer from the USA living in Santa Fe, NM</h3>
 
-👨‍💻 All of my projects are available at https://bennywyattrose.github.io/
-📫 How to reach me bennywyattrose@gmail.com
+- 👨‍💻 All of my projects are available at [https://bennywyattrose.github.io/](https://bennywyattrose.github.io/)
+
+- 📫 How to reach me **bennywyattrose@gmail.com**
 
 <h3 align="left">Adobe Creative Suite:</h3>
 
-<p align="left"> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" /> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" /> <img src="https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="Adobe InDesign" /> <img src="https://img.shields.io/badge/Dreamweaver-FF61F6?style=for-the-badge&logo=adobedreamweaver&logoColor=white" alt="Adobe Dreamweaver" /> </p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Bennywyattrose/Bennywyattrose.github.io/318bfb01124770da35d0630648476469e2c37579/Images/Photoshop_Logo.png" width="60" height="60" alt="Adobe Photoshop" />
+</p>
 
-<h3 align="left">Connect with me:</h3> <p align="left"> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
