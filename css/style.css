@@ -29,3 +29,20 @@ footer {
   text-align: center;
   padding: 1rem;
   margin-top: 2rem;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 600px) {
+  body {
+    font-size: 14px;
+    padding: 0 1rem;
+  }
+
+header, footer {
+  padding: 1rem;
+}
+
+main {
+  padding: 1rem;
+}
+}  
